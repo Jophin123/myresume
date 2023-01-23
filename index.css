@@ -26,8 +26,11 @@ h5{
 }
 
 .left_background_color{
-background-color: #f8eee6;
+background-color: #F1E7DF;
 }
 .left-side-font{
     font-family: monospace;
+}
+.resume_head{
+    color: white;
 }

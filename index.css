@@ -1,0 +1,33 @@
+body{
+  font-family: 'roboto';  
+}
+.container{
+    width: 990px;
+}
+h1{
+    font-size: 70px;
+    line-height: 75px;
+}
+h2{
+    font-size: 60px;
+    line-height: 65px;
+}
+h3{
+    font-size: 40px;
+    line-height: 45px;
+}
+h4{
+    font-size: 25px;
+    line-height: 28px;
+}
+h5{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.left_background_color{
+background-color: #f8eee6;
+}
+.left-side-font{
+    font-family: monospace;
+}

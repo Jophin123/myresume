@@ -1,9 +1,7 @@
 body{
   font-family: 'roboto';  
 }
-.container{
-    width: 1100px;
-}
+
 h1{
     font-size: 70px;
     line-height: 75px;
@@ -34,3 +32,31 @@ background-color: #F1E7DF;
 .resume_head{
     color: white;
 }
+
+
+
+
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+    .container{
+        width: 1100px;
+    }
+  }
+   
+  /* For Tablet View */
+  @media screen and (min-device-width: 768px)
+  and (max-device-width: 1024px) {
+
+  }
+   
+  /* For Mobile Portrait View */
+  @media screen and (max-device-width: 480px)
+  and (orientation: portrait) {
+  
+  }
+   
+  /* For Mobile Landscape View */
+  @media screen and (max-device-width: 640px)
+  and (orientation: landscape) {
+   
+  }

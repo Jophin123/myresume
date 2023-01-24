@@ -50,7 +50,7 @@ background-color: #F1E7DF;
   }
    
   /* For Mobile Portrait View */
-  @media screen and (max-device-width: 480px)
+  @media screen and (max-device-width: 640px)
   and (orientation: portrait) {
   
   }
